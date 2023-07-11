@@ -9,7 +9,7 @@ import { Dashboard } from './App/Dashboard';
 import { Exercises } from './App/Exercises';
 import { CV } from './App/CV';
 import { Calendar } from './App/Calendar';
-import { Blog } from './App/Blog/blog';
+import { Blog } from './App/Blog/Blog';
 
 export function App() {
   return (

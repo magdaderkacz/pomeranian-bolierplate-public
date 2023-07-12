@@ -45,10 +45,18 @@ export function AppAside() {
             </NavLink>
           </li>
           <li>
-            <NavLink to="blocks">
+            <NavLink to="blog">
               <div>
                 <SettingIcon />
                 Blog
+              </div>
+            </NavLink>
+          </li>
+          <li>
+            <NavLink to="blocks">
+              <div>
+                <SettingIcon />
+                Bloki
               </div>
             </NavLink>
           </li>

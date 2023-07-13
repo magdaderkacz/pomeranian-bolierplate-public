@@ -25,3 +25,9 @@
 .hsl {
   color: hsl(120, 60%, 50%);
 }
+
+.opacity {
+  background-color: #00ff00;
+  padding: 24px;
+  opacity: 0.5;
+}

@@ -15,6 +15,12 @@ export function Exercise() {
         rerum rem expedita beatae, laborum minus cupiditate provident
         repellendus dolorem esse autem!
       </div>
+
+      <div className="two-squares">
+        <div className="square-1"></div>
+
+        <div className="square-2"></div>
+      </div>
     </div>
   );
 }

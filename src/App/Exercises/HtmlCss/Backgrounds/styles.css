@@ -1,5 +1,5 @@
 .background-url {
-  background: url('http://localhost:3000/zdjecie.jpg');
+  background: url('./zdjecie.jpg');
 
   width: 500px;
 
@@ -11,7 +11,7 @@
 .background-url-2 {
   /* background: url('./zdjecie.jpeg'); */
 
-  background-image: url('http://localhost:3000/zdjecie.jpg');
+  background-image: url('./zdjecie.jpg');
 
   width: 500px;
 
@@ -25,7 +25,7 @@
 }
 
 .background-url-3 {
-  background: url('http://localhost:3000/zdjecie.jpg');
+  background: url('./zdjecie.jpg');
 
   width: 500px;
 
@@ -41,7 +41,7 @@
 }
 
 .background-url-4 {
-  background: url('http://localhost:3000/zdjecie.jpg');
+  background: url('./zdjecie.jpg');
 
   background-color: cyan;
 

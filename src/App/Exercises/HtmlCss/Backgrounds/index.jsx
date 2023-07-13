@@ -3,7 +3,7 @@ import './styles.css';
 export function Exercise() {
   return (
     <div>
-      <img width="200" src="http://localhost:3000/zdjecie.jpg" alt="Zdjęcie" />
+      <img width="200" src="./zdjecie.jpg" alt="Zdjęcie" />
 
       <div className="background-url"></div>
 

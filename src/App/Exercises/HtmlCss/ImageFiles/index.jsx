@@ -11,7 +11,8 @@ export function Exercise() {
       <img src={logoIkea} alt="Ikea logo" />
       <img src={zdjecie} alt="Zdjęcie" />
 
-      <RoundImage src={zdjecie} />
+      <RoundImage src={zdjecie} size="150px" />
+      <RoundImage src={zdjecie} size="300px" />
     </div>
   );
 }
